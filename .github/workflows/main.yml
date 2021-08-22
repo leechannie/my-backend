@@ -1,4 +1,4 @@
-name: my_backend
+name: my-backend
 on:
   push:
     branches:
